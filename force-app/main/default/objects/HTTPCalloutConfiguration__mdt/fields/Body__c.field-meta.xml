@@ -6,7 +6,7 @@
     <fieldManageability>SubscriberControlled</fieldManageability>
     <inlineHelpText>Request Body</inlineHelpText>
     <label>Body</label>
-    <length>131072</length>
+    <length>131064</length>
     <type>LongTextArea</type>
     <visibleLines>3</visibleLines>
 </CustomField>
